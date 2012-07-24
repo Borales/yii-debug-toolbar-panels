@@ -1,7 +1,10 @@
 Custom panels for [yii-debug-toolbar](https://github.com/malyshev/yii-debug-toolbar)
 ========================
 
-1. YiiDebugToolbarPanelVarDumper
+Repo root is `ext.yii-debug-toolbar`.
+
+1. YiiDebugToolbarPanelVarDumper - use it like `Yii::log(CVarDumper::dumpAsString($var, 10, true), 'varDumper', $category = 'application')`
+
 
 Usage
 =====
