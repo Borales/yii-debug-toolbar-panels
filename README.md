@@ -1,4 +1,4 @@
-yii-debug-toolbar-panels
+Custom panel for [yii-debug-toolbar](https://github.com/malyshev/yii-debug-toolbar)
 ========================
 
-Custom panels for yii-debug-toolbar
+1. YiiDebugToolbarPanelVarDumper
